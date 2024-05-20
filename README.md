@@ -63,6 +63,9 @@ The ETL process was implemented using SSIS. The process includes the following s
 ## Power BI Visualization
 Power BI was used to create dynamic visualizations to analyze product sales and customer behavior.
 
+For detailed visualization, refer to the [Project Visuals](./MIS587_Project_Vizualization.pbix).
+
+
 ### Key Visualizations
 - **Product Sales by Department Across Various Markets**: Stacked column chart showing product sales by department across different global markets.
 - **Product Category Sales Volume by Department**: Horizontal stacked chart representing the sales volume of various product categories within each department.
